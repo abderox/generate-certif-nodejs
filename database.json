@@ -1,0 +1,10 @@
+{
+    "test": {
+        "name": "test",
+        "type": "test",
+        "url": "http://localhost:8080",
+        "username": "test",
+        "password": "test",
+        "database": "test"
+    }
+}
